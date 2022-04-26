@@ -1,13 +1,13 @@
 {
-    "name": "jusi"
-    "description": "jusi",
+    "name": "ajaxi",
+    "description": "ajaxi",
     "logo": "https://telegra.ph/file/1b837a8df2670b0097aaf.jpg",
     "stack": "container",
     "keywords": [
       "telegram"
     ],
-    "website": "https://github.com/Aadhi000/Ajax",
-    "repository": "https://github.com/Aadhi000/Ajax",
+    "website": "https://github.com/nryadav7412/Ajax",
+    "repository": "https://github.com/nryadav7412/Ajax",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
